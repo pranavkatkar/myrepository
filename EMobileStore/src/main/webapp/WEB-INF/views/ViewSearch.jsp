@@ -11,9 +11,11 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <title></title>  
     </head>  
-    <body>  
+    <body>
+    
+    <jsp:include page="nav.jsp" flush="true"/>  
      <center>  
-     hello
+     
       
       
       <c:if test="${!empty productList}"> 

@@ -82,7 +82,7 @@
    <h3>Add Product </h3>
     <form:form class="login-form"  method="POST" action="save"  commandName="product" enctype="multipart/form-data">
 
-    <Table class="table" height="" width="80">
+    <Table class="table table-condensed"height="" width="80">
     <tr>
     <td>
     <form:label path="prodid">Enter ProductId</form:label></td>

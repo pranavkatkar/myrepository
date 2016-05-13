@@ -82,7 +82,7 @@
     </ul>
   </div>
 </nav>
-  <h2>Add Employee Data</h2>  
+  <h2>Register with us </h2>  
   
   <form:form method="GET" action="personsave" align="center">  
       <table class="table">  

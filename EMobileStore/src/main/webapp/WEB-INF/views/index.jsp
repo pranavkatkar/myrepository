@@ -35,9 +35,11 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Mobiles
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<c:url value='/ViewSearch?subctg=Nokia'/>">Nokia</a></li>
+            <li><a href="<c:url value='/ViewSearch?subctg=Microsoft'/>">Microsoft</a></li>
             <li><a href="<c:url value='/ViewSearch?subctg=Samsung'/>">Samsung</a></li>
-            <li><a href="#">Micromax</a></li> 
+            <li><a href="<c:url value='/ViewSearch?subctg=Micromax'/>">Micromax</a></li> 
+            <li><a href="<c:url value='/ViewSearch?subctg=iphone'/>">iphone</a></li> 
+            <li><a href="<c:url value='/ViewSearch?subctg=lecco'/>">lecco</a></li> 
           </ul>
         </li>
    
